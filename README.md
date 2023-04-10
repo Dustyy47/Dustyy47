@@ -81,12 +81,7 @@ Frontend dev from Sevastopol
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
+     
   <tr/>
 
 </table>
@@ -106,6 +101,18 @@ Frontend dev from Sevastopol
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/800px-NestJS.svg.png" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Nest JS
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Prisma
     </td>
   </tr> 
 </table>
